@@ -1,6 +1,6 @@
-# Regularized divide and conquer training for dendrite morphological neurons
+# Dendrite Morphological Neurons Trained by Stochastic Gradient Descend
 
-This package contains functions to train dendrite morphological neurons based on the paper "Regularized Divide and Conquer Training for Dendrite Morphological Neurons", E. Zamora, H. Sossa, 2016. This method is effective to overcome overfitting in classification problems for machine learning. 
+This package contains functions to train dendrite morphological neurons based on the paper "Dendrite Morphological Neurons Trained by Stochastic Gradient Descend", E. Zamora, H. Sossa, 2016. This method is effective to overcome overfitting in classification problems for machine learning. 
 
 [Please cite it if you intend to use this code] 
 
